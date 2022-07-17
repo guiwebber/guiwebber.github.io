@@ -235,10 +235,7 @@ h1 {
     overflow-x: hidden !important;
     overflow-y: hidden !important;
   }
-  .apresentacao p, h1 {
-    font-size: 2rem;
-    white-space: nowrap;
-  }
+
   .apresentacao {
     margin-top: -170px;
   }
