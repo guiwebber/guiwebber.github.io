@@ -236,14 +236,11 @@ h1 {
     overflow-y: hidden !important;
   }
   .apresentacao p, h1 {
-    font-size: 2rem;
-    white-space: nowrap;
+    font-size: 1rem;
+    white-space: wrap;
   }
   .apresentacao {
     margin-top: -170px;
-  }
-  .apresentacao p, h1{
-    font-size: 15px;
   }
   .botaolink {
     width: 260px;
