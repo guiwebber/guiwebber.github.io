@@ -76,7 +76,7 @@ a:hover {
 
 .nome {
   animation: piscaCursor 500ms steps(40) infinite normal, 
-  digitaNome 5s steps(40) 1s normal;
+  digitaNome 5s steps(40) 1s normal both;
   white-space: nowrap;
   overflow: hidden;
   border-right: 1px solid gray;
@@ -119,8 +119,7 @@ a:hover {
 
 
 /***INÍCIO SOBRE MIM****/
-.container {
-}
+
 .sobre {
   width: 60%;
   margin: auto;
